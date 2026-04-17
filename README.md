@@ -5,7 +5,7 @@
 3. Compress 10 file tadi menjadi satu file zip atau rar.  
 4. Copy file zip tersebut ke media penyimpanan eksternal yang sama.  
 
-> Screenshot saat proses transfer (copy) sedang berlangsung pada langkah 2 dan langkah 4.
+> Screenshot saat proses transfer (copy) sedang berlangsung pada langkah 2 dan langkah 4.  
 LANGKAH 2  
 <img width="285" height="113" alt="Screenshot 2026-04-16 060651" src="https://github.com/user-attachments/assets/c56d62cb-bb06-4cd7-83ef-c5fcd7bab20f" />  
 LANGKAH 4  
