@@ -113,42 +113,43 @@ Penggunaan 10 tab dalam satu browser lebih efisien dibanding membuka 10 browser 
 > Screenshot bukti hasil setiap lubang USB yang anda test.
 
 USB TYPE A (USB 2.0)  
+<img width="1904" height="995" alt="WhatsApp Image 2026-04-17 at 12 57 09" src="https://github.com/user-attachments/assets/75548906-f5c1-4d52-99ce-2ccc5ba24342" />  
 
+USB TYPE C (USB 3.1)  
+<img width="1909" height="973" alt="2WhatsApp Image 2026-04-17 at 12 56 48" src="https://github.com/user-attachments/assets/3ea45b86-014d-4e53-833b-625747aa6b95" />  
 
-USB TYPE C (USB 3.1)
-
-Soal : Jelaskan perbedaan hasil dari setiap lubang USB yang anda test
-Hasil Pengamatan :
-Terdapat perbedaan kecepatan transfer antara:
-USB Type A (USB 2.0) = lebih lambat.
-USB Type C (USB 3.1) = lebih cepat.
-Alasan terjadinya perbedaan :
-Versi USB.
-USB Type A yang digunakan adalah versi USB 2.0 dengan kecepatan maksimal sekitar 480 Mbps.
-USB Type C yang digunakan adalah versi USB 3.1 dengan kecepatan bisa mencapai hingga 5–10 Gbps.
-Bandwidth (kecepatan transfer data).
-USB 2.0 memiliki bandwidth kecil sehingga proses transfer file besar membutuhkan waktu lebih lama.
-USB 3.1 memiliki bandwidth jauh lebih besar sehingga transfer file lebih cepat.
-Teknologi dan jalur data.
-USB 3.1 memiliki jalur data lebih banyak (full duplex) dibanding USB 2.0.
-Hal ini membuat proses kirim data lebih efisien dan stabil.
-Efisiensi transfer file besar.
-File besar (>500MB) lebih terasa perbedaannya karena membutuhkan kecepatan transfer tinggi.
-Port yang lebih cepat akan menghemat waktu secara signifikan.
-Mana yang Lebih Efisien?
-= USB Type C (USB 3.1) lebih efisien karena memiliki kecepatan transfer lebih tinggi, waktu lebih singkat, dan performa lebih optimal untuk file berukuran besar.
-Hubungan dengan Memory Management
-Ada hubungannya, tetapi tidak terlalu dominan, penjelasannya:
-Saat proses transfer file:
-Sistem menggunakan RAM sebagai buffer untuk menampung data sementara sebelum dikirim ke perangkat tujuan.
-Pada USB Type C (lebih cepat):
-Data mengalir lebih cepat dari RAM ke perangkat eksternal.
-Buffer di RAM cepat dikosongkan sehingga lebih efisien.
-Pada USB Type A (lebih lambat):
-Data tertahan lebih lama di buffer RAM karena kecepatan kirim rendah.
-Bisa terjadi antrian data (bottleneck) antara proses baca dan tulis.
-Dampak ke sistem:
-Jika transfer berlangsung lama dan RAM terbatas, sistem bisa menggunakan virtual memory.
-Hal ini dapat memperlambat kinerja sistem secara keseluruhan.
-Kesimpulan:
+> Soal : Jelaskan perbedaan hasil dari setiap lubang USB yang anda test  
+1. Hasil Pengamatan :  
+Terdapat perbedaan kecepatan transfer antara:  
+USB Type A (USB 2.0) = lebih lambat.  
+USB Type C (USB 3.1) = lebih cepat.  
+2. Alasan terjadinya perbedaan :  
+- Versi USB.  
+  * USB Type A yang digunakan adalah versi USB 2.0 dengan kecepatan maksimal sekitar 480 Mbps.  
+  * USB Type C yang digunakan adalah versi USB 3.1 dengan kecepatan bisa mencapai hingga 5–10 Gbps.  
+- Bandwidth (kecepatan transfer data).  
+  * USB 2.0 memiliki bandwidth kecil sehingga proses transfer file besar membutuhkan waktu lebih lama.  
+  * USB 3.1 memiliki bandwidth jauh lebih besar sehingga transfer file lebih cepat.  
+- Teknologi dan jalur data.  
+  * USB 3.1 memiliki jalur data lebih banyak (full duplex) dibanding USB 2.0.  
+  * Hal ini membuat proses kirim data lebih efisien dan stabil.  
+- Efisiensi transfer file besar.  
+  * File besar (>500MB) lebih terasa perbedaannya karena membutuhkan kecepatan transfer tinggi.  
+  * Port yang lebih cepat akan menghemat waktu secara signifikan.  
+3. Mana yang Lebih Efisien?  
+= USB Type C (USB 3.1) lebih efisien karena memiliki kecepatan transfer lebih tinggi, waktu lebih singkat, dan performa lebih optimal untuk file berukuran besar.  
+4. Hubungan dengan Memory Management :  
+Ada hubungannya, tetapi tidak terlalu dominan, penjelasannya :
+- Saat proses transfer file:  
+  * Sistem menggunakan RAM sebagai buffer untuk menampung data sementara sebelum dikirim ke perangkat tujuan.  
+- Pada USB Type C (lebih cepat):  
+  * Data mengalir lebih cepat dari RAM ke perangkat eksternal.  
+  * Buffer di RAM cepat dikosongkan sehingga lebih efisien.  
+- Pada USB Type A (lebih lambat):  
+  * Data tertahan lebih lama di buffer RAM karena kecepatan kirim rendah.  
+  * Bisa terjadi antrian data (bottleneck) antara proses baca dan tulis.  
+- Dampak ke sistem:  
+  * Jika transfer berlangsung lama dan RAM terbatas, sistem bisa menggunakan virtual memory.  
+  * Hal ini dapat memperlambat kinerja sistem secara keseluruhan.  
+5. Kesimpulan:  
 Perbedaan port USB sangat mempengaruhi kecepatan transfer file. USB Type C (USB 3.1) lebih cepat dan efisien dibanding USB Type A (USB 2.0). Memory management berperan dalam proses buffering data, tetapi bukan faktor utama yang menentukan kecepatan transfer.
