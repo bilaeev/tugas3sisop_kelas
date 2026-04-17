@@ -30,7 +30,7 @@ Terdapat perbedaan waktu antara:
 Media seperti flashdisk/HDD cenderung lebih lambat saat menangani banyak file kecil, lebih optimal untuk file besar berurutan.  
 
 3. Mana yang Lebih Efisien?  
-= Lebih efisien: file ZIP (langkah 4), karena waktu transfer lebih cepat, beban kerja sistem lebih ringan, lebih praktis (1 file saja).  
+= Lebih efisien file ZIP (langkah 4), karena waktu transfer lebih cepat, beban kerja sistem lebih ringan, lebih praktis (1 file saja).  
 
 4. Hubungan dengan Memory Management  
 Ada hubungannya, tapi tidak langsung besar, penjelasannya:  
