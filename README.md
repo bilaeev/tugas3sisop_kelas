@@ -7,7 +7,8 @@
 
 > Screenshot saat proses transfer (copy) sedang berlangsung pada langkah 2 dan langkah 4.  
 LANGKAH 2  
-<img width="285" height="113" alt="Screenshot 2026-04-16 060651" src="https://github.com/user-attachments/assets/c56d62cb-bb06-4cd7-83ef-c5fcd7bab20f" />  
+<img width="285" height="113" alt="Screenshot 2026-04-16 060651" src="https://github.com/user-attachments/assets/c56d62cb-bb06-4cd7-83ef-c5fcd7bab20f" />
+
 LANGKAH 4  
 <img width="285" height="110" alt="Screenshot 2026-04-16 060844" src="https://github.com/user-attachments/assets/81bc7186-c370-4362-9acb-f54fb70a22a3" />  
 
