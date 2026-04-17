@@ -56,10 +56,10 @@ Data mengalir lebih stabil (streaming), penggunaan RAM lebih efisien, lebih sedi
    
 > Screenshot hasil task manager langkah 1 dan langkah 2
 
-LANGKAH 1 (10 TAB DALAM 1 BROWSER)  
+LANGKAH 1 (10 TAB DALAM 1 BROWSER) MENGGUNAKAN CHROME  
 <img width="648" height="156" alt="Screenshot 2026-04-16 061732" src="https://github.com/user-attachments/assets/90159710-a869-453f-b387-591a41555fa8" />  
 
-LANGKAH 2 (10 BROWSER TERPISAH)  
+LANGKAH 2 (10 BROWSER TERPISAH) MENGGUNAKAN CHROME  
 <img width="648" height="164" alt="Screenshot 2026-04-17 073151" src="https://github.com/user-attachments/assets/325dd49f-9297-47f9-a07a-a007c19dc289" />  
 
 > Soal : Analisa mana yang lebih berat dan berikan penjelasan!  
@@ -152,4 +152,6 @@ Ada hubungannya, tetapi tidak terlalu dominan, penjelasannya :
   * Jika transfer berlangsung lama dan RAM terbatas, sistem bisa menggunakan virtual memory.  
   * Hal ini dapat memperlambat kinerja sistem secara keseluruhan.  
 5. Kesimpulan:  
-Perbedaan port USB sangat mempengaruhi kecepatan transfer file. USB Type C (USB 3.1) lebih cepat dan efisien dibanding USB Type A (USB 2.0). Memory management berperan dalam proses buffering data, tetapi bukan faktor utama yang menentukan kecepatan transfer.
+- Perbedaan port USB sangat mempengaruhi kecepatan transfer file.
+- USB Type C (USB 3.1) lebih cepat dan efisien dibanding USB Type A (USB 2.0).
+- Memory management berperan dalam proses buffering data, tetapi bukan faktor utama yang menentukan kecepatan transfer.
